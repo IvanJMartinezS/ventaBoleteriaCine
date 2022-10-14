@@ -1,12 +1,3 @@
-<?php
-/**
-* autor: Iván J. Martínez S.
-* CC: 1.013.367.721
-* 
-* Desarrollo Web con PHP
-* U3_Evidencia: Taller "Uso de funciones"
-*/
-?>
 <!DOCTYPE html>
 <html>
     <head>
