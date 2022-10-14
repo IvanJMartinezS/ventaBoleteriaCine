@@ -3,7 +3,7 @@
     width: 100%;
     padding: 0em;
     text-align: left;
-    border: 1px solid black;
+    border: 10px solid black;
     margin: 0 auto;
 }
 #container #header
@@ -11,7 +11,7 @@
     width: 90%;
     padding: 0em;
     text-align: left;
-    border: 1px solid black;
+    border: 1px solid green;
     margin: 0 auto;
 }
 #container #scenery
@@ -19,7 +19,7 @@
     width: 70%;
     padding: 0em;
     text-align: left;
-    border: 1px solid black;
+    border: 1px solid blue;
     margin: 0 auto;
 }
 #container #information
@@ -27,7 +27,7 @@
     width: 70%;
     padding: 0em;
     text-align: left;
-    border: 1px solid black;
+    border: 1px solid red;
     margin: 0 auto;
 }
 #container #footer
@@ -35,6 +35,6 @@
     width: 90%;
     padding: 0em;
     text-align: left;
-    border: 1px solid black;
+    border: 1px solid pink;
     margin: 0 auto;
 }
